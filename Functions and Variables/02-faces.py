@@ -1,4 +1,4 @@
-# Call convert function that take user Input
+# Create main function that take user input and pass it to the convert
 def main():
     userInput = input()
     print(convert(userInput)) # Print output after convert it 
